@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FastTextScan</string>
+    <string name="next_curve_filter">Next Curve Filter</string>
+    <string name="next_mixer_filter">Next Mixer Filter</string>
+    <string name="next_convolution_filter">next_convolution_filter</string>
+    <string name="menu_next_camera">"Next Cam</string>
+    <string name="menu_take_photo">Take Photo</string>
+    <string name="menu_next_image_detection_filter">Image Detection Filter</string>
+
+
+</resources>

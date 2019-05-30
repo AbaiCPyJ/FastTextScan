@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:4:5-25
+		INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml
+		INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:6:7-34
+		INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml
+		INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:5:7-33
+		INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml
+		INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:8:5-17
+INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:8:5-17
+INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:8:5-17
+INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:8:5-17
+INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:8:5-17
+	android:targetSdkVersion
+		INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml
+		ADDED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:8:5-17
+		INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml
+		ADDED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml:8:5-17
+		INJECTED from D:\opencvapp\openCVLibrary345\src\main\AndroidManifest.xml
